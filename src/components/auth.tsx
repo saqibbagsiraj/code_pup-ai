@@ -58,12 +58,12 @@ export default function AuthPage() {
             transition={{ duration: 0.5 }}
             className="text-3xl font-bold mb-4"
           >
-            {isSignUp ? "Welcome Back!" : "Join Career X"}
+            {isSignUp ? "Welcome Back!" : "Join Codpup.ai"}
           </motion.h2>
           <p className="text-sm leading-relaxed text-blue-100 max-w-xs mb-8">
             {isSignUp
               ? "Your journey towards a brighter future starts here. Let's continue building your dreams."
-              : "Ready to discover your true potential? Join Career X today and take your first step toward success."}
+              : "Ready to discover your true potential? Join CodePup.ai today and take your first step toward success."}
           </p>
           <button
             onClick={() => setIsSignUp(!isSignUp)}

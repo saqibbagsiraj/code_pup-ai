@@ -58,7 +58,7 @@ export default function AuthPage() {
             transition={{ duration: 0.5 }}
             className="text-3xl font-bold mb-4"
           >
-            {isSignUp ? "Welcome Back!" : "Join Codpup.ai"}
+            {isSignUp ? "Welcome Back!" : "Join Codepup.ai"}
           </motion.h2>
           <p className="text-sm leading-relaxed text-blue-100 max-w-xs mb-8">
             {isSignUp

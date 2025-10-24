@@ -83,7 +83,7 @@ CodePup AI is a modern AI-powered website builder that allows users to create st
 ![Gallery Section](./screenshots/gallery-section.png)
 
 ### Login / Signup Page
-![Login Page](./screenshots/login-page.png)
+![Login Page](./login-page.png)
 
 ### FAQ Page
 ![Prompt Page](./screenshots/prompt-page.png)
